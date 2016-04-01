@@ -15,7 +15,7 @@ FILES:
 __________________________________
 COMMAND LINE INSTRUCTIONS:
 
-1) Navigate to the directory "Poker_Single_Player"
+1) Navigate to the directory containing all four files listed above.
 
 2) To compile the program files, enter the command: 
 	javac Poker.java
